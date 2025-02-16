@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS system file
+.DS_Store
+
+
+
+# others
+*.log
+*.sqlite
+/downloads/  
+config.py  
